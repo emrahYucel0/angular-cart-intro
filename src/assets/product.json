@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "categoryId": 2,
+    "title": "Taro Root",
+    "price": 73.18,
+    "tags": ["travel"],
+    "imageUrl": "http://dummyimage.com/163x100.png/cc0000/ffffff"
+  }, {
+    "id": 2,
+    "categoryId": 1,
+    "title": "Pasta - Agnolotti - Butternut",
+    "price": 69.42,
+    "tags": ["books"],
+    "imageUrl": "http://dummyimage.com/158x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 3,
+    "categoryId": 3,
+    "title": "Cheese - Cream Cheese",
+    "price": 97.72,
+    "tags": ["health"],
+    "imageUrl": "http://dummyimage.com/165x100.png/ff4444/ffffff"
+  }, {
+    "id": 4,
+    "categoryId": 1,
+    "title": "Juice - Apple Cider",
+    "price": 88.30,
+    "tags": ["health"],
+    "imageUrl": "http://dummyimage.com/128x100.png/dddddd/000000"
+  }, {
+    "id": 5,
+    "categoryId": 2,
+    "title": "Tequila Rose Cream Liquor",
+    "price": 56.77,
+    "tags": ["technology"],
+    "imageUrl": "http://dummyimage.com/154x100.png/cc0000/ffffff"
+  }, {
+    "id": 6,
+    "categoryId": 3,
+    "title": "Crackers Cheez It",
+    "price": 28.42,
+    "tags": ["health"],
+    "imageUrl": "http://dummyimage.com/230x100.png/dddddd/000000"
+  }, {
+    "id": 7,
+    "categoryId": 2,
+    "title": "Veal - Chops, Split, Frenched",
+    "price": 26.99,
+    "tags": ["books"],
+    "imageUrl": "http://dummyimage.com/164x100.png/dddddd/000000"
+  }, {
+    "id": 8,
+    "categoryId": 3,
+    "title": "Pastry - Baked Scones - Mini",
+    "price": 51.59,
+    "tags": ["fashion"],
+    "imageUrl": "http://dummyimage.com/179x100.png/dddddd/000000"
+  }, {
+    "id": 9,
+    "categoryId": 3,
+    "title": "Wine - Red, Lurton Merlot De",
+    "price": 80.17,
+    "tags": ["fitness"],
+    "imageUrl": "http://dummyimage.com/156x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 10,
+    "categoryId": 2,
+    "title": "Langers - Mango Nectar",
+    "price": 69.83,
+    "tags": ["fashion"],
+    "imageUrl": "http://dummyimage.com/228x100.png/ff4444/ffffff"
+  }]

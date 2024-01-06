@@ -1,0 +1,12 @@
+<div class="card" *ngFor="let cart of cartService.getCartList()">
+    <div class="card-body">
+        <h4 class="card-title">{{getNameById(cart.productId)}}</h4>
+        <div>
+            <button class="btn btn-sm btn-primary" (click) ="minus(cart.productId)">-</button>
+            <span>{{cart.count}}</span>
+            <button class="btn btn-sm btn-primary" (click) ="add(cart.productId)">+</button>
+            <button class="btn btn-sm btn-danger" (click) ="remove(cart.productId)">Remove</button>
+        </div>
+    </div>
+</div>
+
